@@ -57,7 +57,7 @@ models/
 ├── country_encoder.pkl
 └── feature_list.pkl
 ```
-> Train models using the included Colab notebook.
+> > Pre-trained models are included in the `models/` folder. No training needed.
 
 ### 4. Run
 ```bash
