@@ -1,5 +1,5 @@
 ```markdown
-# 🌦 Weather Impact Monitoring System
+#  Weather Impact Monitoring System
 
 A real-time weather monitoring system that predicts the impact of weather on
 traffic, energy demand, and retail behavior using machine learning and
@@ -7,7 +7,7 @@ OOP design patterns.
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Live Weather** — fetches real-time data for any city via Open-Meteo API
 - **Traffic Prediction** — congestion level (LOW/MEDIUM/HIGH) using Random Forest ML
@@ -18,7 +18,7 @@ OOP design patterns.
 - **PDF Reports** — one-click downloadable report with all predictions
 - **CLI Mode** — run everything from the terminal without the web UI
 
-## 🧱 Design Patterns
+##  Design Patterns
 
 | Pattern | Where |
 |---|---|
@@ -30,7 +30,7 @@ OOP design patterns.
 
 ---
 
-## ⚙️ Setup
+## Setup
 
 ### 1. Clone & create virtual environment
 ```bash
